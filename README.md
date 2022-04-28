@@ -12,3 +12,4 @@ Java 17.0.2<br>
 Angular CLI: 13.3.3<br>
 Node: 16.14.2<br>
 Package Manager: npm 8.5.0<br>
+Server version: 8.0.28 MySQL Community Server - GPL
